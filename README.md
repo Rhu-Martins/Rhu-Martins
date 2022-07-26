@@ -14,10 +14,9 @@
  
  <br>
  
-  ### Pra me conhecer um pouco mais me sega nas redes abaixo!
+  ### Pra me conhecer um pouco mais me siga nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/Rhu-Martins" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rhu_martins12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
