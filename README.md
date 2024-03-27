@@ -1,3 +1,9 @@
+ <div>
+   <a href="https://github.com/Rhu-Martins">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhu-Martins&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+
 ## Bem-vindo(a) ao perfil Rhu-Martins
 
 
